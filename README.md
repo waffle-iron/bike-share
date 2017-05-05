@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/TomSoucie/bike-share.png?label=ready&title=Ready)](https://waffle.io/TomSoucie/bike-share)
 [![Stories in Ready](https://badge.waffle.io/glassjoseph/bike-share.png?label=ready&title=Ready)](https://waffle.io/glassjoseph/bike-share)
 [![Stories in Ready](https://badge.waffle.io/edilenedacruz/bike-share.png?label=ready&title=Ready)](https://waffle.io/edilenedacruz/bike-share)
 [![Stories in Ready](https://badge.waffle.io/cmacaulay/bike-share.png?label=ready&title=Ready)](https://waffle.io/cmacaulay/bike-share)

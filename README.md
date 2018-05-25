@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/jude-lawson/bike-share.png?columns=all)](https://waffle.io/jude-lawson/bike-share?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/sidewinder2020/bike-share.png?label=ready&title=Ready)](https://waffle.io/sidewinder2020/bike-share?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/sidewinder2020/bike-share.png?label=ready&title=Ready)](https://waffle.io/sidewinder2020/bike-share?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/sidewinder2020/bike-share.png?label=ready&title=Ready)](https://waffle.io/sidewinder2020/bike-share?utm_source=badge)
